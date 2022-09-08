@@ -8,9 +8,9 @@ Email: [heribertofranco@u.boisestate.edu](mailto:heribertofranco@u.boisestate.ed
 2. Goal 2
 3. Goal 3
 
-## Smart Goals
+## SMART Goals
 |S|Specific|
-|--------|-------|
+|---|---|
 |M|Measurable|
 |A|Achievable|
 |R|Relevant|
