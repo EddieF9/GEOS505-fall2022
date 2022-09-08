@@ -2,4 +2,4 @@
 
 ## Eddie Franco
 
-Email: [heribertofranco@u.boisestate.edu]( mailto:heribertofranco@u.boisestate.edu)
+Email: [heribertofranco@u.boisestate.edu](mailto:heribertofranco@u.boisestate.edu)
