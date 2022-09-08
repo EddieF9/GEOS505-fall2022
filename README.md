@@ -9,9 +9,9 @@ Email: [heribertofranco@u.boisestate.edu](mailto:heribertofranco@u.boisestate.ed
 3. Goal 3
 
 ## Smart Goals
-|S|-|Specific|
+|S|Specific|
 |--------|-------|
-|M|-|Measurable|
-|A|-|Achievable|
-|R|-|Relevant|
-|T|-|Time-bound|
+|M|Measurable|
+|A|Achievable|
+|R|Relevant|
+|T|Time-bound|
